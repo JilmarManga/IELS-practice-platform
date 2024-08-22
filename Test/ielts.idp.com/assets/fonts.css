@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'proxima-nova';
+  src: url('fonts/proxima-nova-regular.woff2') format("woff2"), url('fonts/proxima-nova-regular.otf') format("opentype");
+  font-display:swap;font-style: normal;
+  font-weight: 400
+}
+@font-face {
+  font-family: 'proxima-nova-medium';
+  src: url('fonts/proxima-nova-medium.otf') format("opentype");
+  font-display:swap;font-style: normal;
+  font-weight: 500
+}
+@font-face {
+  font-family: 'proxima-nova-semi-bold';
+  src: url('fonts/proxima-nova-smibold.woff2') format("woff2"), url('fonts/proxima-nova-smibold.ttf') format("truetype");
+  font-display:swap;font-style: normal;
+  font-weight: 600
+}
+@font-face {
+  font-family: 'proxima-nova-bold';
+  src: url('fonts/proxima-nova-bold.woff2') format("woff2"), url('fonts/proxima-nova-bold.woff') format("woff");
+  font-display:swap;font-style: normal;
+  font-weight: 700
+}
+@font-face { 
+  font-family: 'opensans-regular'; 
+  src: url('fonts/opensans-regular.woff2') format('woff2'), url('fonts/opensans-regular.woff') format('woff'), url('fonts/opensans-regular.ttf') format('truetype');
+  font-display:swap;font-style: normal;
+  font-weight: 400
+}
+@font-face { 
+  font-family: 'opensans-bold'; 
+  src: url('fonts/OpenSans-Bold.ttf') format('truetype');
+  font-display:swap;font-style: normal;
+  font-weight: 700
+}

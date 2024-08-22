@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ielts.idp.com	TRUE	/	FALSE	1999999999	Client_Country_Code	US
+ielts.idp.com	TRUE	/	FALSE	1999999999	clientIp	172.249.35.0
+
